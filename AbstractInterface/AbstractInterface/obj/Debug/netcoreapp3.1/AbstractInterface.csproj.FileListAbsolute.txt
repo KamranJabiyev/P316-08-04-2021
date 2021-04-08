@@ -1,0 +1,11 @@
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.exe
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.deps.json
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.json
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.dev.json
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.dll
+E:\P316\C#\AbstractInterface\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.pdb
+E:\P316\C#\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.csprojAssemblyReference.cache
+E:\P316\C#\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfoInputs.cache
+E:\P316\C#\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfo.cs
+E:\P316\C#\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.dll
+E:\P316\C#\AbstractInterface\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.pdb
